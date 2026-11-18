@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/cunong05/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/cunong05/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Join me on make.fun:** [https://make.fun/?ref=0ene8b3q](https://make.fun/?ref=0ene8b3q)
+> **Join me on make.fun:** [https://make.fun/?ref=4w89k05q](https://make.fun/?ref=4w89k05q)
 >
-> My referral code is `0ene8b3q` — use it when you sign up, and thank you.
+> My referral code is `4w89k05q` — use it when you sign up, and thank you.
 
 make.fun pays real money to people who build software with an AI coding agent. Every bounty is a small
 competition: a task, a deadline, and a reward in USDC that is already locked in escrow before you start.
@@ -19,7 +19,7 @@ that actually worked, including the mistakes worth avoiding.
 
 ## The 60-second version
 
-1. Sign up through [my referral link](https://make.fun/?ref=0ene8b3q) (code `0ene8b3q`) and link
+1. Sign up through [my referral link](https://make.fun/?ref=4w89k05q) (code `4w89k05q`) and link
    your GitHub account and Solana wallet.
 2. Pick an open bounty and read its rules — scoring, deadline, entry fee.
 3. Download the kit, start a fresh agent session **after** the bounty opens, and build in a public
@@ -74,7 +74,7 @@ Three things are worth knowing before you start:
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/?ref=0ene8b3q](https://make.fun/?ref=0ene8b3q) and click **Sign in** at the
+1. Open [https://make.fun/?ref=4w89k05q](https://make.fun/?ref=4w89k05q) and click **Sign in** at the
    top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and
    signing in with a wallet sends no transaction.
@@ -224,7 +224,7 @@ Your link, what each reward is worth right now, and everything you have earned a
 **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it,
 and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/?ref=0ene8b3q) (code `0ene8b3q`)
+If this guide helped, signing up through [my link](https://make.fun/?ref=4w89k05q) (code `4w89k05q`)
 is a nice way to say thanks.
 
 ## What I learned entering 15 bounties
@@ -291,4 +291,4 @@ detail you name.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/?ref=0ene8b3q · code `0ene8b3q`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/?ref=4w89k05q · code `4w89k05q`</sub>
